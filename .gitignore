@@ -25,6 +25,7 @@ dist/
 # Specific exclusions requested by user
 frontendd/api/
 api/
+frontendd/app/lib/api.ts
 backend.zip
 
 # OS
